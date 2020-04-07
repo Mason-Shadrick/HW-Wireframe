@@ -1,0 +1,62 @@
+header
+{
+    background-color: lightgray;
+    text-align: center;
+    margin-left: 15%;
+    margin-right: 15%;
+    margin-top: 15px;
+    padding: 20px;
+
+
+
+}
+nav
+{
+    background-color: lightgray;
+    text-align: center;
+    margin-left: 15%;
+    margin-right: 15%;
+    margin-bottom: 10px;
+    padding: 20px;
+
+}
+section
+{
+    background-color: lightgray;
+    float: left;
+
+}
+article
+{
+    background-color: grey;
+    float: left;
+
+}
+h1
+{
+    background-color: lightgray;
+    float: left;
+
+}
+p
+{
+    background-color: lightgray;
+    float: left;
+
+}
+aside
+{
+    background-color: lightgray;
+    float: right;
+
+}
+footer
+{
+    background-color: lightgray;
+    clear: both;
+
+}
+ html
+ {
+    background-color: grey;
+ }
